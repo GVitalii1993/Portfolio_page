@@ -4,13 +4,20 @@ body{
 	color: #000;
 	background: #232123;
 }
+.bone{
+	width: 1200px;
+	margin: 0 auto;
+}
+
 .wrapper{
 	display: block;
-	width: 1200px;
 	height: 100vh;
 	box-sizing: border-box;
 	margin: 0 auto;
 	background: #fff;
 	/*background-image: url("/img/Oil-On-Canvas-Abstract-Art.jpg");*/
 	background-repeat: inherit;
+}
+.ship_modeling{
+	
 }

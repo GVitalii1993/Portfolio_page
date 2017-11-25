@@ -8,7 +8,7 @@
 <body>
 <div class="wrapper">
 	<div class="ship_modeling">
-		
+		<img src="/img/Pirates_Ship.jpg">
 	</div>
 	<div class="drawing">
 		
